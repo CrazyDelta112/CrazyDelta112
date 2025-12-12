@@ -83,7 +83,6 @@
 <ul align="left">
 	<li>Active contributor to an IW9 mod project</li>
 	<li>Planning a full custom IW4 mod</li>
-	<li>Focus on gameplay systems, UI and customization</li>
 </ul>
 
 </div>
