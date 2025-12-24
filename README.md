@@ -18,9 +18,6 @@
 	<br><br>
 	I am the creator of the <b>CodHub Project</b>, a Call of Duty community website open to everyone.
 	<br><br>
-	Currently, I participate in a <b>Mods project for IW9</b> and I plan to create my own <b>Mod for IW4</b>.
-	<br><br>
-	My main goal is to combine <b>web development</b>, <b>game modding</b> and <b>clean but aggressive UI design</b>.
 </p>
 
 ---
