@@ -46,6 +46,8 @@
 		<a href="https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o)">
 			<img src="https://skillicons.dev/icons?i=java&theme=dark" />
 		</a>
+			<a href="https://pt.wikipedia.org/wiki/Lua_(linguagem_de_programa%C3%A7%C3%A3o)">
+			<img src="https://skillicons.dev/icons?i=lua" />
 	</div>
 	<h3 align="center">Currently learning</h3>
 	<div style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; gap: 0.5em; flex-wrap: wrap; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
@@ -58,8 +60,6 @@
 		<a href="https://en.wikipedia.org/wiki/C%2B%2B">
 			<img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
 		</a>
-			<a href="https://pt.wikipedia.org/wiki/Lua_(linguagem_de_programa%C3%A7%C3%A3o)">
-			<img src="https://skillicons.dev/icons?i=lua" />
 	</div>
 </div>
 
