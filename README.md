@@ -78,10 +78,10 @@
 	<li>Community-focused content</li>
 </ul>
 
-<h3>Game Modding</h3>
+<h3>My Plans</h3>
 <ul align="left">
-	<li>Active contributor to an IW9 mod project</li>
 	<li>Planning a full custom IW4 mod</li>
+	<li>Make a Mini Serie In Call Of Duty</li>
 </ul>
 
 </div>
