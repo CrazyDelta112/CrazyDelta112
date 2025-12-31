@@ -1,6 +1,6 @@
 <!-- markdownlint-disable-file MD001 MD033 -->
 
-<h1 align="center">Delta</h1>
+<h1 align="center">Delta The Fixer</h1>
 <p align="center">
 	<b>Web Developer • Modder • Call of Duty Enthusiast</b>
 </p>
