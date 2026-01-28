@@ -80,8 +80,8 @@
 
 <h3>My Plans</h3>
 <ul align="left">
-	<li>Planning a full custom IW4 mod</li>
-	<li>Make a Mini Serie In Call Of Duty</li>
+	<li>Make the perfect pizza</li>
+	<li>destroy all the universe and create a new world without wars and death.</li>
 </ul>
 
 </div>
