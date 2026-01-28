@@ -112,8 +112,7 @@
 <h2 align="center">Goals</h2>
 
 <ul>
-	<li>Expand CodHub into a full Call of Duty hub</li>
-	<li>Release my own IW4 mod</li>
+	<li>Expand CodHub into a full Call of Duty Center</li>
 	<li>Improve back-end and systems programming skills</li>
 	<li>Create more advanced and interactive projects</li>
 </ul>
