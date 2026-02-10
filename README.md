@@ -1,135 +1,121 @@
 <!-- markdownlint-disable-file MD001 MD033 -->
 
-<h1 align="center">Delta The Fixer</h1>
-<p align="center">
-	<b>Web Developer • Modder • Call of Duty Enthusiast</b>
-</p>
+<div align="center">
 
-<p align="center">
-	Creating stylish web projects, game mods and community-driven tools.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=DELTA%20THE%20FIXER&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 
----
-
-<h2 align="center">Infos</h2>
-
-<p align="center">
-	My name is <b>Delta</b> and I am a Brazilian developer focused on <b>HTML</b>, <b>CSS</b> and <b>JavaScript</b>.
-	<br><br>
-	I am the creator of the <b>CodHub Project</b>, a Call of Duty community website open to everyone.
-	<br><br>
-</p>
-
----
-
-<div align="center" style="margin-block: 1.5em">
-	<h2>Languages</h2>
-	<div style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; gap: 0.5em; flex-wrap: wrap; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
-		<a href="https://en.wikipedia.org/wiki/CSS">
-			<img src="https://skillicons.dev/icons?i=css&theme=dark" />
-		</a>
-		<a href="https://en.wikipedia.org/wiki/HTML">
-			<img src="https://skillicons.dev/icons?i=html&theme=dark" />
-		</a>
-		<a href="https://en.wikipedia.org/wiki/JavaScript">
-			<img src="https://skillicons.dev/icons?i=js&theme=dark" />
-		</a>
-		<a href="https://en.wikipedia.org/wiki/TypeScript">
-			<img src="https://skillicons.dev/icons?i=ts&theme=dark" />
-		</a>
-			<a href="https://en.wikipedia.org/wiki/C%2B%2B">
-			<img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
-		</a>
-		<a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
-			<img src="https://skillicons.dev/icons?i=py&theme=dark" />
-		</a>
-		<a href="https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o)">
-			<img src="https://skillicons.dev/icons?i=java&theme=dark" />
-		</a>
-			<a href="https://en.wikipedia.org/wiki/Node.js">
-			<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
-		</a>
-				<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-			<img src="https://skillicons.dev/icons?i=cs&theme=dark" />
-		</a>
-			<a href="https://pt.wikipedia.org/wiki/Lua_(linguagem_de_programa%C3%A7%C3%A3o)">
-			<img src="https://skillicons.dev/icons?i=lua" />
-	</div>
-	<h3 align="center">Currently learning</h3>
-	<div style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; gap: 0.5em; flex-wrap: wrap; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">	
-		<h1>OH MEU DEUS, NÃO SOBROU NADA!
-	</div>
 </div>
 
 ---
- <h1 align="center">I Hate Java</h1>
-<h2 align="center">Projects</h2>
+
+## Profile
+
+Name: Delta
+Location: Brazil
+Role: Web Developer / Modder
+Focus: Front-End Engineering, UI Systems, Game Modding
+
+
+Developer focused on structured interfaces, game-inspired UI systems and community tools.
+
+Creator of **CodHub**, a Call of Duty inspired documentation and modding hub.
+
+---
+
+## Stack
 
 <div align="center">
 
-<h3>CodHub</h3>
-<p>
-	A Call of Duty community website focused on documentation, mods, tools and a UI inspired by the franchise.
-</p>
-
-<ul align="left">
-	<li>Custom Call of Duty inspired UI</li>
-	<li>Documentation pages</li>
-	<li>Planned GitHub-connected changelog</li>
-	<li>Community-focused content</li>
-</ul>
-
-<h3>My Plans</h3>
-<ul align="left">
-	<li>Make the perfect pizza</li>
-	<li>destroy all the universe and create a new world without wars and death.</li>
-</ul>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,cpp,py,cs,java,lua&theme=dark" />
 
 </div>
 
 ---
 
-<h2 align="center">Tools & Environment</h2>
+## Specialization
+
+• Animated UI Systems
+• Game Interface Design
+• Modding Tools
+• Web Architecture
+• Community Platforms
+
+
+---
+
+## Featured Project
+
+### CodHub
+
+A community driven platform focused on Call of Duty documentation, tools and modding resources.
+
+
+
+• Franchise inspired UI framework
+• Modular documentation system
+• Planned GitHub integration
+• Modding ecosystem support
+
+
+---
+
+## Development Philosophy
+
+
+
+Code should be structured.
+Interfaces should feel alive.
+Tools should empower communities.
+
+
+---
+
+## Current Objectives
+
+
+
+• Expand CodHub into a full franchise hub
+• Improve backend and systems knowledge
+• Develop advanced interactive interfaces
+
+
+---
+
+## Environment
 
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=vscode,git,github,windows&theme=dark" />
-	<img src="https://skillicons.dev/icons?i=blender" />
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,windows,blender&theme=dark" />
+
 </div>
 
 ---
 
-<h2 align="center">What I Like to Build</h2>
+## Activity
 
-<ul>
-	<li>Animated and stylish web interfaces</li>
-	<li>Game-inspired UI/UX (especially Call of Duty)</li>
-	<li>Mods for games</li>
-	<li>Community-driven projects</li>
-	<li>Experimental ideas and concepts</li>
-</ul>
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&hide_border=true"/>
 
-<h2 align="center">Goals</h2>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dark&hide_border=true"/>
 
-<ul>
-	<li>Expand CodHub into a full Call of Duty Center</li>
-	<li>Improve back-end and systems programming skills</li>
-	<li>Create more advanced and interactive projects</li>
-</ul>
-
----
-
-<h2 align="center">Status</h2>
-
-<div align="center" style="background-color: #282A3682; border-radius: 2em; padding: 1em; width: fit-content; box-shadow: 0px 3px 5px #00000010">
-	<p>
-		🚧 Always building, learning and improving.
-	</p>
 </div>
 
 ---
 
-<p align="center">
-	<b>Code • Mods • Community</b>
-</p>
+## Status
+
+
+
+Active Development
+Researching
+Building Systems
+
+
+---
+
+<div align="center">
+
+DELTA // WEB • SYSTEMS • MODDING
+
+</div>
