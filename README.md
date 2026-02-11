@@ -73,18 +73,19 @@ Hello I Just a Simple Coder,I Dont Do Anything Big But yeah.
   <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,blender&theme=dark" />
 </div>
 
----
 
 
 
 ---
 
----
 
 <div align="center">
 
-### DELTA // WEB • SYSTEMS • MODDING
+### DELTA // JAVA HATER • C# Coder • CoD Lover
 
 `No fluff. Just systems.`
 
 </div>
+
+---
+
