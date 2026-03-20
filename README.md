@@ -83,7 +83,7 @@ Hello I Just a Simple Coder,I Dont Do Anything Big But yeah.
 
 ### DELTA // JAVA HATER • C# Coder • CoD Lover
 
-`No fluff. Just systems.`
+`Novasix`
 
 </div>
 
