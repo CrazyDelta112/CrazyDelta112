@@ -53,14 +53,26 @@ Hello I Just a Simple Coder,I Dont Do Anything Big But yeah.
 
 ---
 
-# People I admire/look up to
+## People I admire/look up to
 
-[Elbasedd](https://github.com/elbasedd)
+<div>
 
-[Xifil/Lifix](https://github.com/xifil)
+  <p>
+    <img src="https://github.com/elbasedd.png" width="40" style="border-radius:50%; vertical-align:middle; margin-right:10px;">
+    <a href="https://github.com/elbasedd">Elbasedd</a>
+  </p>
 
-[Luxploit](https://github.com/luxploit)
+  <p>
+    <img src="https://github.com/xifil.png" width="40" style="border-radius:50%; vertical-align:middle; margin-right:10px;">
+    <a href="https://github.com/xifil">Xifil / Lifix</a>
+  </p>
 
+  <p>
+    <img src="https://github.com/luxploit.png" width="40" style="border-radius:50%; vertical-align:middle; margin-right:10px;">
+    <a href="https://github.com/luxploit">Luxploit</a>
+  </p>
+
+</div>
 ---
 
 
