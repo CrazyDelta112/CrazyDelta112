@@ -2,24 +2,21 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Printf_Delta&textBg=false&fontAlign=50&animation=fadeIn&desc=Java%20Hater" />
-
 <p>
   <img src="https://img.shields.io/badge/STATUS-ONLINE-22c55e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REGION-BRAZIL-8b5cf6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REGION-MOON-8b5cf6?style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
+ing practical problems—whether through desktop utilities, web interfaces, or custom integrations.
 
-
-Hello I Just a Simple Coder,I Dont Do Anything Big But yeah.
-
+When i not coding i just sleep.
 ---
 
-##  Stack
+## Tech stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,cpp,py,cs,java,lua&theme=dark" />
@@ -27,77 +24,37 @@ Hello I Just a Simple Coder,I Dont Do Anything Big But yeah.
 
 ---
 
-## Specialization
+## What I work on
 
-- Designs in HTML, CSS, and JS
-- Python and C#
-- Video Editor.
+- **C# applications** – building tools and utilities for everyday use.  
+- **Web frontend** – HTML, CSS, JavaScript to create clean, functional interfaces.  
+- **Python** – scripting and automation.  
+
+---
+rd Better / Vencord Themes** – custom themes that enhance the Discord experience.
 
 ---
 
-##  Featured Projects
+## People I admire
 
-- CodHub
-- CodBuilds (Colaboration)
-- Seasons Documentation
-- Discord Better / Vencord Custom Themes
-
----
-
-## Key Mentors
-
-> **LoongPing**
-> 
-> **Tukos.**
-> 
+- **elbassed** – a great friend and a major inspiration.  
+- **laura** – a great friend and a strong supporter of my main project.  
+- **lifix** – a friend and an outstanding programmer.
 
 ---
 
-## People I admire/look up to
-
-<div>
-
-  <p>
-    <img src="https://github.com/elbasedd.png" width="40" style="border-radius:50%; vertical-align:middle; margin-right:10px;">
-    <a href="https://github.com/elbasedd">Elbasedd</a>
-  </p>
-
-  <p>
-    <img src="https://github.com/xifil.png" width="40" style="border-radius:50%; vertical-align:middle; margin-right:10px;">
-    <a href="https://github.com/xifil">Xifil / Lifix</a>
-  </p>
-
-  <p>
-    <img src="https://github.com/luxploit.png" width="40" style="border-radius:50%; vertical-align:middle; margin-right:10px;">
-    <a href="https://github.com/luxploit">Luxploit</a>
-  </p>
-
-</div>
----
-
-
-
----
-
-## 🛠️ Environment
+## Environment
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,blender&theme=dark" />
 </div>
 
-
-
-
 ---
-
 
 <div align="center">
 
-### DELTA // JAVA HATER • C# Coder • CoD Lover
+**DELTA // C# Coder • CoD Lover**
 
 `Novasix`
 
 </div>
-
----
-
