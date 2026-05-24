@@ -2,10 +2,6 @@
 
 <div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-22c55e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REGION-MOON-8b5cf6?style=for-the-badge" />
-</p>
 
 </div>
 
