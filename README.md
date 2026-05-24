@@ -2,19 +2,15 @@
 
 <div align="center">
 
-
+# Crazy Delta
 </div>
 
----
-
-ing practical problems—whether through desktop utilities, web interfaces, or custom integrations.
-
-When i not coding i just sleep.
----
-
-## Tech stack
 
 <div align="center">
+ <p>Tech stack</p>
+</div>
+<div align="center">
+
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,cpp,py,cs,java,lua&theme=dark" />
 </div>
 
@@ -25,10 +21,6 @@ When i not coding i just sleep.
 - **C# applications** – building tools and utilities for everyday use.  
 - **Web frontend** – HTML, CSS, JavaScript to create clean, functional interfaces.  
 - **Python** – scripting and automation.  
-
----
-rd Better / Vencord Themes** – custom themes that enhance the Discord experience.
-
 ---
 
 ## People I admire
